@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-color: rgb(36, 32, 32);
+    text-align: center;
+}
+
+#TextClick{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+}
+
+#ClickBtn{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    background-color: black;
+    border: 5px;
+}
+
+#upgrade1{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    background-color: black;
+    border: 5px;
+}
+
+#upgrade2{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    background-color: black;
+    border: 5px;
+}
+
+#upgrade3{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    background-color: black;
+    border: 5px;
+}
+
+#upgrade4{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    background-color: black;
+    border: 5px;
+}
+
+#upgradeAnim1{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    background-color: black;
+    border: 5px;
+}
+
+#upgradeAnim2{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    background-color: black;
+    border: 5px;
+}
+
+#upgradeAnim3{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    background-color: black;
+    border: 5px;
+}
+
+#upgradeAnim4{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    background-color: black;
+    border: 5px;
+}
+
+.hidden{
+    display: none;
+}
+
+#OpenShop{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    background-color: black;
+    border: 5px;
+}
+
+#back{
+    font-family: 'Roboto Mono', monospace;
+    color:rgb(0, 162, 255);
+    background-color: black;
+    border: 5px;
+}
+
+#block{
+    width: 50px;
+    height: 50px;
+    background-color:rgb(0, 102, 255);
+    border-radius: 10px;
+}
+
+#animBtn{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    background-color: black;
+    border: 5px;
+}
+
+#status{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+}
+
+#rb{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+}
+
+#an{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(0, 162, 255);
+    text-shadow: 0 0 30px #0084ff;
+}
